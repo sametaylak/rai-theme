@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sametaylak.raitheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sametaylak.raitheme.MyBundle
 
 class MyApplicationService {
 
